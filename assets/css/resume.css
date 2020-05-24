@@ -176,3 +176,8 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+.dropdown-menu {
+  background-color: #bd5d38;
+  color: white;
+}
